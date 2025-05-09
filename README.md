@@ -1,2 +1,5 @@
-# IoT
-for IoT Assignment 
+# IoT-HW01
+• Screenshot of Arduino IDE showing selected board & port
+ - ![Image](https://github.com/user-attachments/assets/dfbc1fc7-ad87-4cb3-b110-235df9441980)
+• Photo or video of the ESP32 blinking LED (your own)
+ - https://github.com/Firefly0207/IoT/issues/2#issue-3051070586
